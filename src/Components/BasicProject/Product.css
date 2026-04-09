@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+  
+}
+.item{
+    width:200px;
+    height:auto;
+    background-color: rgb(231, 129, 129);
+    border:1px solid gray;
+    border-radius: 10px;
+    padding:10px;
+}
+/* button{
+    margin-top: 10px;
+    width:90px;
+    height: 40px;
+    border: 1px solid rgb(1, 8, 9);
+    background-color: rgb(47, 241, 255);
+    border-radius: 10px;
+} */
